@@ -1,0 +1,1 @@
+# SpringBootEmailTemplate
